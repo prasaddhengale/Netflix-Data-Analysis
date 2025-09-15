@@ -3,15 +3,21 @@
 This project analyzes the Netflix dataset (2008 - 2019) with Python to uncover patterns in content production, ratings, genres, and country contributions.
 The goal is to showcase data cleaning, visualization, and exploratory data analysis (EDA) skills using Python, Pandas, Matplotlib, and Seaborn.
 
+---
+
 ## 🛠️ Tech Stack
 - Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - Environment: Jupyter Notebook
 
+---
+
 ## 📂 Dataset
 - **File:** 'netflix_titles_nov_2019.csv' (included in this repository)
 - **Size:** 2.14 MB (~5,800 Movies + TV Shows)
 - **Source:** [Netflix Shows and Movies - Exploratory Analysis](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis/input)
+
+---
 
 ## 📊 Analysis & Visualizations
 🔹 1. Data Cleaning
@@ -41,9 +47,13 @@ The goal is to showcase data cleaning, visualization, and exploratory data analy
 - Calculated average duration of movies per rating category.
 - Compared trends for adult vs kids’ content.
 
+---
+
 ## 📷 Sample Visuals
 <img width="1019" height="815" alt="download" src="https://github.com/user-attachments/assets/7b6a1c32-ee8a-4f12-a3fc-543fd569dc9b" />
 <img width="1190" height="590" alt="download" src="https://github.com/user-attachments/assets/1b21a6aa-af9a-49e2-a76d-e141383664c3" />
+
+---
 
 ## 📌 Key Insights
 - Netflix content production has grown exponentially since 2015.
@@ -51,6 +61,8 @@ The goal is to showcase data cleaning, visualization, and exploratory data analy
 - Drama, Comedy, and International Movies are the most common genres.
 - David Attenborough and Anupam Kher are among the most frequent actors in Netflix titles.
 - Children’s movies are shorter, while adult-rated movies have longer average durations.
+
+---
 
 ## 🚀 How to Run
 - Download the notebook and dataset from this repo.
